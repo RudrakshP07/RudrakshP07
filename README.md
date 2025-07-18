@@ -24,4 +24,5 @@ I'm a passionate Computer Science student with a focus on Cyber Security. I've c
 # Get in Touch
 📫 Feel free to reach out to me via 
  - Email: rudrapotghan.07@gmail.com
- - LinkedIn: https://www.linkedin.com/in/rudra-potghan-455999281/
+ - LinkedIn: https://www.linkedin.com/in/rudra-potghan
+ - Medium: https://medium.com/@rudrapotghan.07
