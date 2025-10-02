@@ -1,4 +1,4 @@
-# 🕶️ Rudra Potghan (aka *Bhairav*)  
+# 🕶️ Rudra Potghan (aka *Bh4ir4v*)  
 
 ## 👋 About Me  
 Final-year **Computer Science student** specializing in **Cybersecurity**.  
