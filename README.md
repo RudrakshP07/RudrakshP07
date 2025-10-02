@@ -1,28 +1,50 @@
-# Hello, I'm Rudra Potghan 👋
+# 🕶️ Rudra Potghan (aka *Bhairav*)  
 
-# About Me
-I'm a passionate Computer Science student with a focus on Cyber Security. I've completed a diploma in CSE and currently pursuing my BTech. Besides my academic pursuits, I have a keen interest in graphic design and game development.
+## 👋 About Me  
+Final-year **Computer Science student** specializing in **Cybersecurity**.  
+I’m passionate about **reconnaissance, automation, and security research** — building workflows, tools, and knowledge bases that strengthen the community.  
 
-# Interests
-- Cyber Security
-- Game Development
-- Graphic Design
-- Technology
-- Learning and Growth
+I lead as **Chapter Lead – Indore Cyber Secured India** and **Core Team Member – The Hackers Meetup Indore**.  
+I also run **VOID**, a public initiative blending Sanatan Dharma themes with deep-dives into recon & bug bounty tooling.  
 
-# Skills
-- C
-- C++
-- C#
-- JAVA
-- Python
-- Unity 2D/3D 
-- Graphic Design
-- Cyber Security
+---
 
+## 🔥 Current Focus  
+- Bug bounty & recon automation (custom toolchains, data-driven workflows)  
+- ISO 27001, GRC, auditing & compliance (DPDP relevance in India)  
+- Security operations (SOC, SIEM, forensics)  
+- Writing **professional vulnerability reports** & public articles  
 
-# Get in Touch
-📫 Feel free to reach out to me via 
- - Email: rudrapotghan.07@gmail.com
- - LinkedIn: https://www.linkedin.com/in/rudra-potghan
- - Medium: https://medium.com/@rudrapotghan.07
+---
+
+## 🛠️ Skills & Tools  
+
+**Languages**  
+- Python | C | C++ | Java | C#  
+
+**Cybersecurity**  
+- Reconnaissance, OSINT, VAPT basics  
+- Subdomain Enumeration, Infra Mapping, Host & Web Scanning  
+- Auditing & Compliance workflows  
+
+**Toolbox**  
+- ReconFTW | Nmap | Subfinder | Amass | Burp Suite | Shodan | Nessus  
+- Custom Bash/Python automation scripts  
+
+**Other**  
+- Unity (2D/3D game development)  
+- Graphic Design (for community/VOID branding)  
+
+---
+
+## 📚 Featured Work  
+- 🛠️ [**Recon Machine Setup**](#) – one-click Kali recon environment builder (`setup_recon_machine.sh`)  
+- ✍️ [**Ultimate Recon Machine Article**](https://medium.com/@rudrapotghan.07) – detailed guide for bug bounty hunters  
+- 🎯 **VOID** – learn-in-public series on recon/security tooling  
+
+---
+
+## 📡 Connect  
+📧 Email: **rudrapotghan.07@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/rudra-potghan](https://www.linkedin.com/in/rudra-potghan)  
+📝 Medium: [medium.com/@rudrapotghan.07](https://medium.com/@rudrapotghan.07)  
